@@ -6,6 +6,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 ## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `node webserver.js` on one terminal.
+Run `ng serve` on another for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 In addition to Angular, this project utiluzed NodeJS for the back-end CRUD component. I did not include node_modules in this upload, they can be installed by running npm install in terminal in the project folder. Finally, this project also made use of MongoDB to record our imputs there.
